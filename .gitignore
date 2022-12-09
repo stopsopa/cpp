@@ -1,2 +1,9 @@
-.idea
-/cmake-build-debug/
+*
+!*/
+!*.*
+!.gitignore
+# trick from: https://stackoverflow.com/a/31326382
+
+
+.idea/
+/*.dSYM/
