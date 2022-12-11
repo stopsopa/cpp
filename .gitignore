@@ -12,6 +12,5 @@
 
 
 /.vscode
-/.vscode*
 # symlink it from .vscode_win or .vscode_mac
 
